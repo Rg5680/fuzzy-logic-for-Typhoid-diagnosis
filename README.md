@@ -1,0 +1,1 @@
+# fuzzy-logic-for-Typhoid-diagnosis
